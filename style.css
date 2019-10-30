@@ -1,0 +1,15 @@
+.DIVUM{
+    width: 50px;
+    background-color: purple;
+    padding: 60px;
+    margin: 0 auto;
+}
+.DIVDOIS{
+    width: 50px;
+    background-color: royalblue;
+    padding: 60px;
+    margin: 0 auto;
+}
+section {
+    background-color: slategray;
+}
